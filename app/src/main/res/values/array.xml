@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="userNameOpen">
+    <item>@string/open_all</item>
+    <item>@string/open_friend</item>
+    <item>@string/open_me</item>
+</string-array>
+<string-array name="userNameOpen_values">
+    <item>1</item>
+    <item>0</item>
+    <item>-1</item>
+</string-array>
+</resources>
+
+

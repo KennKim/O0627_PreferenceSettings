@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">O0627_PreferenceSettings</string>
+
+
+    <string name="app_name2">누가바</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">userName</string>
+
+    <!--array strings-->
+    <string name="open_all">모두에게 공개</string>
+    <string name="open_friend">친구공개</string>
+    <string name="open_me">나만 보기</string>
+    <string name="sub2">서브메뉴2</string>
+    <string name="sub3">서브메뉴3</string>
+    <string name="share">share</string>
+</resources>
